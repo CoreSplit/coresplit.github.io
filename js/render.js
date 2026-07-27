@@ -71,7 +71,7 @@
       '<a href="https://github.com/DrKyusu/CoreSplit" class="sidebar-link" target="_blank" rel="noopener"><span class="sidebar-icon">⌥</span> <span data-i18n="github" data-i18n-section="nav">GitHub</span></a>',
       '<a href="https://github.com/DrKyusu/CoreSplit/issues" class="sidebar-link" target="_blank" rel="noopener"><span class="sidebar-icon">⚠</span> <span data-i18n="issues" data-i18n-section="nav">Issues</span></a>',
       '</div></nav>',
-      '<div class="sidebar-footer"><div class="sidebar-version">v1.0.0</div><div style="margin-top:0.4rem" data-i18n="mcVersion" data-i18n-section="nav">Minecraft 26.2</div><div data-i18n="license" data-i18n-section="nav">Fabric · AGPL-3.0</div></div>',
+      '<div class="sidebar-footer"><div class="sidebar-version">v2.5.0</div><div style="margin-top:0.4rem" data-i18n="mcVersion" data-i18n-section="nav">Minecraft 26.2</div><div data-i18n="license" data-i18n-section="nav">Fabric · AGPL-3.0</div></div>',
       '</aside>'
     ].join('\n');
   }
